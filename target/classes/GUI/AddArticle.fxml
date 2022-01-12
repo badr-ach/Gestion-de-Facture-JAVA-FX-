@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="141.0" prefWidth="314.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" >
+   <children>
+      <TextField fx:id="TxtLibelle" layoutX="121.0" layoutY="36.0" />
+      <Button fx:id="BtnAdd" layoutX="204.0" layoutY="85.0" mnemonicParsing="false" onAction="#BtnAddAction" prefHeight="25.0" prefWidth="64.0" text="Add" />
+      <Button fx:id="BtnClose" layoutX="123.0" layoutY="85.0" mnemonicParsing="false" onAction="#BtnCloseAction" prefHeight="25.0" prefWidth="62.0" text="Cancel" />
+      <Label fx:id="addLabel1" alignment="CENTER" layoutX="121.0" layoutY="61.0" prefHeight="17.0" prefWidth="149.0" textFill="RED" />
+      <Label layoutX="40.0" layoutY="40.0" prefHeight="17.0" prefWidth="48.0" text="LIBELLE" />
+   </children>
+</AnchorPane>

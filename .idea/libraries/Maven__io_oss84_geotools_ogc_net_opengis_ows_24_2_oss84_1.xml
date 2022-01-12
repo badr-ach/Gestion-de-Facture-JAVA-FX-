@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.oss84.geotools.ogc:net.opengis.ows:24.2-oss84-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/oss84/geotools/ogc/net.opengis.ows/24.2-oss84-1/net.opengis.ows-24.2-oss84-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/oss84/geotools/ogc/net.opengis.ows/24.2-oss84-1/net.opengis.ows-24.2-oss84-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/oss84/geotools/ogc/net.opengis.ows/24.2-oss84-1/net.opengis.ows-24.2-oss84-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.glassfish.jdbc:jdbc:3.0-Prelude-Embedded-m2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jdbc/jdbc/3.0-Prelude-Embedded-m2/jdbc-3.0-Prelude-Embedded-m2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jdbc/jdbc/3.0-Prelude-Embedded-m2/jdbc-3.0-Prelude-Embedded-m2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jdbc/jdbc/3.0-Prelude-Embedded-m2/jdbc-3.0-Prelude-Embedded-m2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

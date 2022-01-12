@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="224.0" prefWidth="337.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button fx:id="BtnAddFacture" layoutX="186.0" layoutY="148.0" mnemonicParsing="false" onAction="#BtnNextAction" prefHeight="25.0" prefWidth="64.0" text="Next" />
+      <Button fx:id="BtnClose" layoutX="89.0" layoutY="148.0" mnemonicParsing="false" onAction="#BtnCloseAction" prefHeight="25.0" prefWidth="62.0" text="Cancel" />
+      <Label fx:id="modifyLabel" alignment="CENTER" layoutX="94.0" layoutY="131.0" prefHeight="17.0" prefWidth="149.0" textFill="RED" />
+      <Label layoutX="39.0" layoutY="97.0" prefHeight="17.0" prefWidth="48.0" text="Nom" />
+      <Label layoutX="39.0" layoutY="42.0" prefHeight="38.0" prefWidth="48.0" text="Type de Facture" wrapText="true" />
+      <ComboBox fx:id="ComboType" layoutX="119.0" layoutY="49.0" onAction="#ComboTypeAction" prefHeight="25.0" prefWidth="134.0" />
+      <ComboBox fx:id="ComboNom" layoutX="119.0" layoutY="93.0" onAction="#ComboNomAction" prefHeight="25.0" prefWidth="134.0" />
+   </children>
+</AnchorPane>
